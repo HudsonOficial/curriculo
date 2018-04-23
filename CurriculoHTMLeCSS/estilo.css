@@ -1,0 +1,207 @@
+li{
+	list-style: none;
+}
+
+#comtudo{
+	
+
+}
+
+#coisasdaEsquerda{
+
+	
+	float:left;
+	margin-top: 4%;
+	margin-left:3%;
+	position:relative;
+}
+
+
+
+
+
+#meunome{
+	font-family:Arial; 
+	color:#FF8C00;
+	font-size:26px;
+	height: 50px;
+    width:  50px;
+     position:relative;
+}
+
+#procura{
+
+	font-family:Liberation Serif; 
+	color:#00CED1;
+	font-size:25px;
+	height: 50px;
+    width:  50px;
+    position: relative;
+    padding-top: 67px;
+}
+
+
+#info{
+	height: 90px;//altura
+    width:  50px;
+}
+
+#infoInforma{
+	
+	font-family:Liberation Serif; 
+	font-size:17px;
+	height: 80px;
+    width:auto;
+    padding-bottom: 5px;
+    float: left;
+
+}
+
+
+
+
+#infoDado{
+	
+	font-family:Liberation Serif; 
+	font-size:17px;
+	height: 80px;
+    width:auto;
+    padding-bottom: 5px;
+    float:left;
+
+}
+
+
+
+
+
+
+
+
+
+
+#infoBloco{
+
+	margin-top:6%;
+	margin-left: -5%;
+	border-width:2px;
+	border-style:solid;
+	background-color:#87CEEB;
+	font-family:Liberation Serif;
+	padding-top: 10px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 30px;
+	height:40px;
+    width:29%;
+
+
+}
+
+#textoObj{
+	 
+	margin-top:2%;
+	font-family:Arial; 
+	font-size:17px;
+	height: auto;
+    width:28%;
+
+}
+
+
+
+
+#coisasdaDireita{
+	
+	
+	margin-top: 4%;
+	margin-left:50%;
+	
+
+
+}
+
+
+
+
+
+#forBloco{
+	
+	//
+	position:relative;
+	float:left;
+	margin-top:-100%;
+	margin-left:37%;
+	width:70%;
+
+	//
+
+	border-width:2px;
+	border-style:solid;
+	background-color:#87CEEB;
+	font-family:Liberation Serif;
+	padding-top: 10px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 30px;
+	height:40px;
+   	
+
+
+
+}
+
+.lugar{
+	font-weight:normal;
+	font-style: italic;
+	font-size:15px;
+}
+
+#forDado{
+	position:relative;
+	float:left;
+	margin-top:-85%;
+	margin-left:30%;
+	width:70%;
+}
+
+
+
+#habBloco{
+
+	position:relative;
+	float:left;
+	margin-top:-55%;
+	margin-left:37%;
+	width:70%;
+
+	//
+
+	border-width:2px;
+	border-style:solid;
+	background-color:#87CEEB;
+	font-family:Liberation Serif;
+	padding-top: 10px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 30px;
+	height:40px;
+
+}
+
+
+#habDado{
+
+	position:relative;
+	float:left;
+	margin-top:-40%;
+	margin-left:37%;
+	width:70%;
+
+	font-size:18;
+	font-family:Arial;
+	text-align: center;
+	font-weight: bold;
+	
+
+}
